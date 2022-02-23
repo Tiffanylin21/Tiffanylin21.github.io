@@ -1,5 +1,4 @@
-[View my portfolio here!](https://tiffanylin21.github.io/)
-
+View my portfolio here: https://tiffanylin21.github.io/
 
 
 Credits:
